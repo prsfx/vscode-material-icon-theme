@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E65100;}
+	.st1{fill:#F7B081;}
+	.st2{fill:#ED914C;}
+	.st3{fill:#F57C00;}
+</style>
+<path class="st0" d="M10,4H4C2.9,4,2,4.9,2,6v12c0,1.1,0.9,2,2,2h16c1.1,0,2-0.9,2-2V8c0-1.1-0.9-2-2-2h-8L10,4z"/>
+<g transform="matrix(.675 0 0 .675 9.8 6.784)">
+	<path class="st1" d="M9.9,5.8h5.5L9.9,0.3V5.8 M2.9-1.2h8l6,6v12c0,1.1-0.9,2-2,2h-12c-1.1,0-2-0.9-2-2v-16
+		C0.9-0.3,1.7-1.2,2.9-1.2 M2.9,16.8h12v-8l-4,4l-2-2L2.9,16.8 M4.9,5.8c-1.1,0-2,0.9-2,2s0.9,2,2,2s2-0.9,2-2S6,5.8,4.9,5.8z"/>
+</g>
+<g transform="matrix(.675 0 0 .675 9.8 6.784)">
+	<path class="st2" d="M11.3,7.3h5.5l-5.5-5.5V7.3 M4.3,0.3h8l6,6v12c0,1.1-0.9,2-2,2h-12c-1.1,0-2-0.9-2-2v-16
+		C2.3,1.1,3.2,0.3,4.3,0.3 M4.3,18.3h12v-8l-4,4l-2-2L4.3,18.3 M6.3,7.3c-1.1,0-2,0.9-2,2s0.9,2,2,2s2-0.9,2-2S7.4,7.3,6.3,7.3z"/>
+</g>
+<g transform="matrix(.675 0 0 .675 9.8 6.784)">
+	<path class="st3" d="M13,9h5.5L13,3.5V9 M6,2h8l6,6v12c0,1.1-0.9,2-2,2H6c-1.1,0-2-0.9-2-2V4C4,2.9,4.9,2,6,2 M6,20h12v-8l-4,4
+		l-2-2L6,20 M8,9c-1.1,0-2,0.9-2,2s0.9,2,2,2s2-0.9,2-2S9.1,9,8,9z"/>
+</g>
+</svg>

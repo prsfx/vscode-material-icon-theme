@@ -594,6 +594,96 @@ export const folderIcons: FolderTheme[] = [
       { name: 'folder-mjml', folderNames: ['mjml'] },
       { name: 'folder-scala', folderNames: ['scala'] },
       { name: 'folder-connection', folderNames: ['connection', 'connections'] },
+      {
+          name: 'folder-article',
+          folderNames: [
+              '.article',
+              '.articles',
+              'article',
+              'articles'
+          ]
+      },
+      {
+          name: 'folder-base',
+          folderNames: [
+              '.base',
+              '.bases',
+              'base',
+              'bases'
+          ]
+      },
+      {
+          name: 'folder-cart',
+          folderNames: [
+              '.cart',
+              '.carts',
+              'cart',
+              'carts'
+          ]
+      },
+      {
+          name: 'folder-gallery',
+          folderNames: [
+              '.gallery',
+              '.galleries',
+              'gallery',
+              'galleries'
+          ]
+      },
+      {
+          name: 'folder-home',
+          folderNames: [
+              '.home',
+              'home'
+          ]
+      },
+      {
+          name: 'folder-kivy',
+          folderNames: [
+              '.kv',
+              '.kivy',
+              'kv',
+              'kivy'
+          ]
+      },
+      {
+          name: 'folder-project',
+          folderNames: [
+              '.project',
+              '.projects',
+              'project',
+              'projects'
+          ]
+      },
+      {
+          name: 'folder-store',
+          folderNames: [
+              '.store',
+              '.stores',
+              'store',
+              'stores'
+          ]
+      },
+      {
+          name: 'folder-tech',
+          folderNames: [
+              '.tech',
+              '.technology',
+              '.technologies',
+              'tech',
+              'technology',
+              'technologies'
+          ]
+      },
+      {
+          name: 'folder-virtualenv',
+          folderNames: [
+              '.venv',
+              '.virtualenv',
+              'venv',
+              'virtualenv'
+          ]
+      }
     ],
   },
   {
