@@ -288,6 +288,8 @@ export const fileIcons: FileIcons = {
         'pipfile',
         '.python-version',
         'manifest.in',
+        'pylintrc',
+        '.pylintrc',
       ],
     },
     { name: 'url', fileExtensions: ['url'] },
@@ -504,7 +506,10 @@ export const fileIcons: FileIcons = {
     },
     { name: 'nuxt', fileNames: ['nuxt.config.js', 'nuxt.config.ts'] },
     { name: 'ocaml', fileExtensions: ['ml', 'mli', 'cmx'] },
-    { name: 'javascript-map', fileExtensions: ['js.map', 'mjs.map'] },
+    {
+      name: 'javascript-map',
+      fileExtensions: ['js.map', 'mjs.map', 'cjs.map'],
+    },
     { name: 'css-map', fileExtensions: ['css.map'] },
     {
       name: 'lock',
@@ -1357,5 +1362,6 @@ export const fileIcons: FileIcons = {
     { name: 'bicep', fileExtensions: ['bicep'] },
     { name: 'cobol', fileExtensions: ['cob', 'cbl'] },
     { name: 'grain', fileExtensions: ['gr'] },
+    { name: 'lolcode', fileExtensions: ['lol'] },
   ],
 };
